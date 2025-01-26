@@ -1,9 +1,9 @@
 # Hi there, I'm Olga 👋
 ### Web developer from Russia
 
-💞️ Eat(); Sleep(); Code(); Repeat();  
-👀 I'm interested in software development.  
-🌱 I'm currently improving my skills in MERN stack and Flutter.  
+📌 Eat(); Sleep(); Code(); Repeat();
+🎓 I'm graduating from university with a degree in software engineering.
+🔍 I'm improving my skills in MERN stack and Flutter.  
 
 ## Skills and Experience:
 
