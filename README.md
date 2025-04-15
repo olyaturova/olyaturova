@@ -1,9 +1,9 @@
 # Hi there, I'm Olga 👋
 ### Web developer from Russia
 
-📌 Eat(); Sleep(); Code(); Repeat();  
+📌 I’m currently working on JavaScript/React/Node 
 🎓 I'm graduating from university with a degree in software engineering.  
-🔍 I'm improving my skills in MERN stack and Flutter.  
+🔍 I’m currently studying on Flutter/Dart 
 
 ## Skills and Experience:
 
