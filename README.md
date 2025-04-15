@@ -1,7 +1,7 @@
 # Hi there, I'm Olga 👋
 ### Web developer from Russia
 
-📌 I’m currently working on JavaScript/React/Node 
+📌 I’m currently working on JavaScript/React/Node  
 🎓 I'm graduating from university with a degree in software engineering.  
 🔍 I’m currently studying on Flutter/Dart 
 
