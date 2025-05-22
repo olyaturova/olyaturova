@@ -3,7 +3,7 @@
 
 📌 I’m currently working on JavaScript/React/Node  
 🎓 I'm graduating from university with a degree in software engineering.  
-🔍 I’m currently studying on Flutter/Dart 
+🔍 I’m currently studying on Flutter/Dart and SQL 
 
 ## Skills and Experience:
 
