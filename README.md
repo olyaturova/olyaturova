@@ -13,7 +13,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass?style=for-the-badge&&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass?style=for-the-badge&logoColor=fff)](#)
 [![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#)
