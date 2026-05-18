@@ -1,9 +1,10 @@
-# Hi there, I'm Olga 👋
-### Web developer from Russia
-
-📌 I’m currently working on JavaScript/React/Node  
-🎓 I'm graduating from university with a degree in software engineering.  
-🔍 I’m currently studying on Flutter/Dart and SQL 
+# Привет, я Ольга 👋
+### frontend-разработчик с навыками бэкенда на **Node.js**
+Разрабатываю:
+- Клиентскую часть на **React** (HTML, CSS, JS)
+- Серверную часть на **Node.js + Express**
+- REST API и интеграцию с базами данных
+Создаю полный цикл веб-приложений — от кнопки до сервера.
 
 ## Skills and Experience:
 
